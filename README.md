@@ -9,7 +9,7 @@ INSTALLATION
 =============
 
 ```
-$ go get github.com/sudix/go-getignore
+$ go get github.com/sudix/getignore
 ```
 
 COMMANDS
